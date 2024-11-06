@@ -1,5 +1,5 @@
 const Transaction = () => {
-	return <h1>Trasaction page</h1>;
-};
+  return <h1>Trasaction page</h1>
+}
 
-export default Transaction;
+export default Transaction

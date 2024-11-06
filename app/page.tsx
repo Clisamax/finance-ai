@@ -1,6 +1,6 @@
 import { Button } from "@/app/_components/ui/button"
 
-const Home = () =>{
+const HomePage = () =>{
 	return(
 		<div className="flex-1 justify-center items-center" >
 			<Button>Home</Button>
@@ -8,4 +8,4 @@ const Home = () =>{
 	)
 }
 
-export default Home
+export default HomePage

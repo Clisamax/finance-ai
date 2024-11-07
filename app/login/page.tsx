@@ -13,7 +13,7 @@ const LoginPage = async () => {
   return (
     <div className='grid grid-cols-2 h-full'>
       {/*Lado Esquerdo*/}
-      <div className=' h-full flex-col justify-center p-8 max-w-[550px] mx-auto flex'>
+      <div className='h-full flex-col justify-center p-8 max-w-[550px] mx-auto flex'>
         <Image
           src='/logo.svg'
           alt='Finance-ai'

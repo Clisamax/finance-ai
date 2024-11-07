@@ -23,6 +23,7 @@ model Trasaction {
   data          DateTime
   createdAt     DateTime                @default(now())
   updatedAt     DateTime                @updatedAt
+  userId        String
 }
 
 enum TrasactionType {

@@ -1,3 +1,13 @@
 {
+	"jsxQuoteStyle": "single",
+  "quoteProperties": "asNeeded",
+  "trailingCommas": "all",
+  "semicolons": "asNeeded",
+  "arrowParentheses": "always",
+	"bracketSameLine": false,
+  "quoteStyle": "single",
+  "attributePosition": "auto",
+  "bracketSpacing": true,
 	"plugins": ["prettier-plugin-tailwindcss"]
+	
 }
